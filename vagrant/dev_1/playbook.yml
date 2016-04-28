@@ -1,0 +1,5 @@
+
+- name: start
+  hosts: all
+  connection: local
+  include: ./centos7-php70-nginx-mariadb-ansible/playbook.yml
