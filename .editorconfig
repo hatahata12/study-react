@@ -13,9 +13,16 @@ trim_trailing_whitespace = false
 
 [*.html]
 indent_size = 2
+indent_size = 2
 
 [*.css]
-tab_width = 4
+tab_width = 2
+indent_size = 2
 
 [*.js]
-tab_width = 4
+tab_width = 2
+indent_size = 2
+
+[*.jsx]
+tab_width = 2
+indent_size = 2

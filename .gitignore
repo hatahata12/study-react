@@ -53,3 +53,5 @@ xcuserdata/
 .git/
 
 .tags*
+
+node_modules/
